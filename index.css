@@ -32,10 +32,10 @@ body {
 .project_example{
     background-color: #CCD1D1;
     border-radius: 10%;
-    margin:10pt;
+    margin-bottom: 10pt;
     padding: 10pt;
-    width: 220pt;
-    height: 220pt;
+    width: 260pt;
+    height: 260pt;
     border: 1pt solid #D6EAF8;
 }
 /*This controls the buttons' appearance.*/
@@ -49,7 +49,7 @@ body {
     font-size : 1em;
     color : #ffffff;
     padding : 3px 11px;
-    background : #5499C7;
+    background : #FF2C5A;
 }
 @keyframes rotate {
     0% {transform: rotate(0deg);}
