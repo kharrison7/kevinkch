@@ -6,6 +6,8 @@ This project is built to act as my personal website on kevinkch.com hosted with 
 
 //ToDo
 
+***) Need to complete SSL Certificate and 'www' subdomain redirect.
+
 1) Need to update about section - developer story, current role, skills learned, interests, etc.
 
 2) Need to add technologies used list and ability to highlight associated projects when a skill is selected.
