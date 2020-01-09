@@ -34,10 +34,13 @@ body {
     border-radius: 10%;
     margin-bottom: 10pt;
     padding: 10pt;
-    width: 260pt;
-    height: 260pt;
+    width: 220pt;
+    height: 220pt;
     border: 1pt solid #D6EAF8;
 }
+.project_example> p {
+    font-size: 15px;
+  }
 /*This controls the buttons' appearance.*/
 .search_button{
     /* border : solid 5px #bfdfff; */
