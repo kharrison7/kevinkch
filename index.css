@@ -414,5 +414,31 @@ button:focus {
     #navigation a {
         color:#000;
     }
+    /*This controls each button container.*/
+    .project_example{
+        background-color: #CCD1D1;
+        border-radius: 10%;
+        margin-bottom: 10pt;
+        padding: 10pt;
+        width: 220pt;
+        height: 220pt;
+        border: 1pt solid #D6EAF8;
+    }
+    .project_example> p {
+        font-size: 15px;
+    }
+    /*This controls the buttons' appearance.*/
+    .search_button{
+        /* border : solid 5px #bfdfff; */
+        border-radius : 9px;
+        moz-border-radius : 9px;
+        /* -webkit-box-shadow : 2px 4px 4px rgba(0,0,0,0.9); */
+        /* -moz-box-shadow : 2px 4px 4px rgba(0,0,0,0.9); */
+        box-shadow : 2px 4px 4px rgba(0,0,0,0.9);
+        font-size : 1em;
+        color : #ffffff;
+        padding : 3px 11px;
+        background : #FF2C5A;
+    }
 
 }
