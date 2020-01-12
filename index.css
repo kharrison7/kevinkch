@@ -354,7 +354,7 @@ button:focus {
     #about {
         width:92% !important;
         height:75vh;
-        padding-top:20vh !important;
+        padding-top:30vh !important;
         text-align:center;
         padding:0px 4%;
     }
@@ -406,7 +406,7 @@ button:focus {
         position:absolute;
     }
     #header table tr td {
-        width:100%;
+        width:110%;
         display:block;
         text-align:center;
         padding:15px 0px;
@@ -425,7 +425,7 @@ button:focus {
         border: 1pt solid #D6EAF8;
     }
     .project_example> p {
-        font-size: 12px;
+        font-size: 13px;
     }
     /*This controls the buttons' appearance.*/
     .search_button{
