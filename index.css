@@ -410,6 +410,7 @@ button:focus {
         display:block;
         text-align:center;
         padding:15px 0px;
+        font-size: 15px;
     }
     #navigation a {
         color:#000;
