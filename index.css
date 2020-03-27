@@ -412,10 +412,10 @@ button:focus {
         padding:15px 0px;
         font-size: 15px;
     }
-    
     #navigation a {
         color:#000;
     }
+    
     /*This controls each button container.*/
     .project_example{
         background-color: #CCD1D1;
