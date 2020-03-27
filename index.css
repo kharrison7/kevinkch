@@ -428,6 +428,7 @@ button:focus {
     .project_example> p {
         font-size: 13px;
     }
+    
     /*This controls the buttons' appearance.*/
     .search_button{
         /* border : solid 5px #bfdfff; */
